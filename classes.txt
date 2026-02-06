@@ -4,3 +4,4 @@ CL03, CNTT3
 CL04, CNTT4
 CL05, CNTT5
 CL06, CNTT6
+Them cac chuc nang moi
