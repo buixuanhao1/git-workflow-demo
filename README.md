@@ -34,5 +34,5 @@ feature/\* -> Pull Request -> develop
 
 develop -> Pull Request -> main
 
-Update by Hao - Leader
+Update by Hao
 
